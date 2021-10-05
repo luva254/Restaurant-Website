@@ -1,71 +1,54 @@
-  *{
-     margin: 0;
-     padding: 0;
-  }
-  .header{
-     background-position: center;
-     background-size: cover;
-     position: relative; 
-     width: 100%;
-    min-height: 100vh;
-  }
-  nav{
-     
-     display: flex;
-     padding: 2% 6%;
-     justify-content: space-between;
-     flex-direction:  column-reverse;
-     align-items: center;
-  }
-  .nav-links{
-     flex: 1;
-     text-align: right;
-  }
-.nav-links ul li{
-   list-style: none;
-   display: inline-block;
-   padding: 8px 12px;
-   position: relative;
-}
-.nav-links ul li a{
-   color: black;
+nav{
+   display: flex;
+   justify-content: space-between;
    text-decoration: none;
-   font-size: 18px;
+   color: black;
+   
+}
+
+ .Primary-nav li{
+    display: inline;
+   text-decoration: none;
+   color: black;
+   margin-left: 20px;
+   text-decoration: none;
+   color: black;   
+} 
+.Secondary-nav li{
+   display: inline;
+   text-decoration: none;
+   color: black;
+   margin-left: 20px;
 
 }
-.nav-links ul li::after{
-   content: '';
-   width: 0%;
-   height: 2px;
-   background: blue;
-   display: block;
-   margin: auto;
-   transition: 0.5s;
+div.Primary-nav a{
+   text-decoration: none;
+   color: black
 }
-.nav-links ul li:hover::after {
-   width: 100% ;
+div.Secondary-nav a{
+   text-decoration: none;
+   color: black
 }
-.text-box {
-   width: 90%;
+.navbar{
+   background-color: #E5E5E5;
+}
+#street{
+   color: #6CB840 ;
+}
+#food{
    color: #EAAB1B;
-   text-align: left;
-   top: 50%;
-   left: 50%;
-   transform: translate(-50%,-50);
-}p,h2{
-   color: black;
 }
-.hero-btn{
-    display: inline block;
-    text-decoration: none;
-    color:black;
-    padding: 12px 34px ;
-    font-size: 18px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
+.text{
+   width: 300px;
 }
-.hero-btn:hover{
-   border: 1px solid chartreuse;
-   background: chartreuse;
+.on{
+   background-color: #6CB840;
+   color: #E5E5E5;
+   text-align: center;
+   border-radius: 20%;
+   border: none;
+   height: 30px;
+   width: 100px;
+   font-weight: bold;
+   
 }
