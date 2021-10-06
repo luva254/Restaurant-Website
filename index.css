@@ -32,6 +32,9 @@ div.Secondary-nav a{
 .navbar{
    background-color: #E5E5E5;
 }
+#sc{
+   color:  #6CB840 ;
+}
 #street{
    color: #6CB840 ;
 }
@@ -51,4 +54,91 @@ div.Secondary-nav a{
    width: 100px;
    font-weight: bold;
    
+}
+.snd{
+   background-color: #6CB840;
+   color: #E5E5E5;
+   text-align: center;
+   border-radius: 20%;
+   border: none;
+   height: 20px;
+   width: 100px;
+   font-weight: bold;
+     
+}
+input{
+   border-radius: 20px;
+   width: 350px;
+   height: 40px;
+   border-style: none;
+}
+.cnt{
+   background-color: #FFD77C;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+div.cnt>p{
+   width: 400px;   
+   text-align: center;
+}
+.sd{
+   background-color: #6CB840;
+   color: #E5E5E5;
+   text-align: center;
+   border-radius: 20%;
+   border: none;
+   height: 20px;
+   width: 50px;
+   font-weight: bold;
+   float: right;
+   margin-top: 40px;
+   
+}
+.txt{
+   margin-top: 50px;
+   background-color: #EAF3E4;
+   display: flex;
+   justify-content: space-between;
+}
+.txt>div{
+   width: 25%;
+
+}
+#flw{
+   display: flex;
+   width: 300px;
+}
+.dl{
+   border-left: 5px dotted  #6CB840;
+}
+#et{
+   display: flex;
+   align-items: center;
+}
+.img{
+   display: flex;
+   background-color: #C9ECB5;
+}
+#hd{
+   width: 50%;
+}
+.dls{
+   color: #6CB840;
+}
+#tsm{
+   width: 300px;
+   text-align: center;
+}
+#bg{
+   margin-left: -120px;
+   position: relative;
+   margin-bottom: -10px;
+}
+#bce{
+   position: relative;
+   width: 50%;
+}
+#em{
+   background-color: #EAF3E4;
 }
