@@ -26,3 +26,5 @@ The web page was written by Godfrey Luvandale.
 HTML and CSS
 ## Installation
 Fork fom the remote repo https://github.com/luva254/Street-Food-Website and then clone it to your local repo
+## Contact
+Reach me through phone:254743548987 or email:luvandalegodfrey11@gmail.com
