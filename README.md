@@ -24,4 +24,5 @@ The project is based on a street food website displaying a variety of foods and 
 The web page was written by Godfrey Luvandale.
 ## Technologies Used
 HTML and CSS
-##
+## Installation
+Fork fom the remote repo https://github.com/luva254/Street-Food-Website and then clone it to your local repo
