@@ -71,7 +71,7 @@ div.Secondary-nav a{
      
 }
 .wd{
-
+   transform: translate(-120px,100px);
 }
 input{
    border-radius: 20px;
