@@ -2,13 +2,13 @@
 ## Table of contents
 1.[Projectname] (#project name)
 
-2.[Description] (#description)
+2.[Description](#description)
 
-3.[Author] (#author)
+3.[Author](#author)
 
-4.[Technologies] (#technologies)
+4.[Technologies](#technologies)
 
-5.[Dependencies] (#dependences)
+5.[Dependecies](#dependecies)
 
 6.[Installation] (#installation)
 
