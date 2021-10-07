@@ -142,3 +142,53 @@ div.cnt>p{
 #em{
    background-color: #EAF3E4;
 }
+/* Explore menu */
+.grid-container {
+   display: flex;
+   flex-wrap: wrap;
+   align-content: space-evenly;
+   background-color: #EAF3E4;
+   padding-bottom: 80px;
+}
+.grid-item {
+   display: inline-block;
+   padding: 0.5em;
+   display: block;
+   width: 33.33%;
+   box-sizing: border-box;
+}
+.card {
+   background-color: #fff;
+   border-bottom-right-radius: 80px 80px;
+   width: 300px;
+   margin-left: 90px;
+}
+.burger {
+   height: 150px;
+   width: 180px;
+   margin-left: -80px;
+   margin-top: -70px;
+}
+.ml {
+   margin-left: 70px;
+   align-content: center;
+}
+.bn {
+   padding-top: 10px;
+   padding-left: 15px;
+}
+/* Explore menu */
+
+/* exclipse */
+.eclipse {
+   height: 700px;
+   width: 700px;
+   background-color: #B8E79C;
+   border-radius: 50%;
+   display: inline-block;
+   float: right;
+   margin-right: -80px;
+   margin-top: -500px;
+
+}
+/* exclipse */
