@@ -14,6 +14,9 @@ nav{
    text-decoration: none;
    color: black;   
 } 
+.et{
+   color: #EAAB1B;
+}
 .Secondary-nav li{
    display: inline;
    text-decoration: none;
@@ -31,6 +34,7 @@ div.Secondary-nav a{
 }
 .navbar{
    background-color: #E5E5E5;
+   height: 500px;
 }
 #sc{
    color:  #6CB840 ;
@@ -181,14 +185,67 @@ div.cnt>p{
 
 /* exclipse */
 .eclipse {
-   height: 700px;
-   width: 700px;
+   height: 1000px;
+   width: 1000px;
    background-color: #B8E79C;
    border-radius: 50%;
    display: inline-block;
    float: right;
    margin-right: -80px;
-   margin-top: -500px;
+   margin-top: -950px;
+   overflow: hidden;
 
 }
 /* exclipse */
+
+/* cricle */
+.circle {
+   margin: 100px;
+   width: 600px;
+   height: 600px;
+   border-top: 4px dashed #ccc;
+   /* border-right: 4px dashed #ccc; */
+   /* border-left: 4px dashed #ccc; */
+   border-radius: 50%;
+   position: absolute;
+   right: 5%;
+   top: 35px;
+   transform: translateY(-50px);
+}
+.circle img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   height: 80px;
+   width: 80px;
+}
+#image1{
+   transform: rotate(-65deg) translateY(-340px);
+   position: relative;
+   z-index: 1;
+ }
+ #image2{
+   transform: rotate(-45deg) translateY(-410px);
+   position: relative;
+ }
+ #image3{
+   transform: rotate(0deg) translateY(-340px);
+ }
+ #image6{
+   transform: rotate(45deg) translateY(-40px);
+ }
+ #image5{
+   transform: rotate(65deg) translateY(-260px);
+ 
+ }
+ #image4{
+   transform: rotate(35deg) translateY(-300px);
+   
+ }
+ img.center{
+    transform: translateY(-40px);
+    width: 140px;
+    height: 140px;
+ }
+
+/* cirlce
