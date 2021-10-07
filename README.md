@@ -8,13 +8,15 @@
 
 4.[Technologies](#technologies)
 
-5.[Dependecies](#dependecies)
+5.[Demo](demo)
 
-6.[Installation] (#installation)
+6.[Installation](#installation)
 
-7.[Contact] (#contact)
+7.[Contact](#contact)
 
-8.[License] (#licence)
+8.[License](#licence)
+
+
 
 ## Project Name
 Street Food Website
@@ -24,6 +26,8 @@ The project is based on a street food website displaying a variety of foods and 
 The web page was written by Godfrey Luvandale.
 ## Technologies Used
 HTML and CSS
+## Demo
+[Demo](https://github.com/luva254/Street-Food-Website)
 ## Installation
 Fork fom the remote repo https://github.com/luva254/Street-Food-Website and then clone it to your local repo
 ## Contact
